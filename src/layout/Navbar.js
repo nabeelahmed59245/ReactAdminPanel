@@ -3,13 +3,6 @@ import 'bootstrap/dist/css/bootstrap.css';
 import '../assets/css/style.css';
 import '../assets/vendors/css/vendor-bundle-base.css';
 import '../assets/vendors/mdi/css/materialdesignicons.min.css';
-import '../assets/js/chart';
-import '../assets/js/dashboard';
-import '../assets/js/file-upload';
-import '../assets/js/hoverable-collapse';
-import '../assets/js/misc';
-import '../assets/js/off-canvas';
-import '../assets/js/todolist';
 import Logo from '../assets/images/logo.svg';
 import LogoMini from '../assets/images/logo-mini.svg';
 
